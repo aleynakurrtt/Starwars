@@ -1,0 +1,34 @@
+body{
+    background-image: url(images/nnnnn.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.row{
+    width: 750px;
+    margin-left: 50px;
+
+}
+
+.card{
+    margin-bottom: 20px;
+    text-align: center;
+    display: flex;
+}
+
+.img-1{
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    margin-left: 30px;
+}
+
+.btn{
+    width: 200px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+.yazii{
+    color: bisque;
+}
